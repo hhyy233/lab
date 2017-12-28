@@ -1,0 +1,2 @@
+type 'make' to compile and produce a file named mmu
+type 'make clean' to clean the objective files
