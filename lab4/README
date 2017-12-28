@@ -1,0 +1,2 @@
+type 'make' to compile and produce a file named iosched
+type 'make clean' to clean the objective files
